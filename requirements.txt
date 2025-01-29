@@ -1,6 +1,5 @@
 flask
 reportlab
 gunicorn
-io
 datetime
 textwrap
